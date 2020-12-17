@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+git push https://github.com/mna-norn/transfer2Dcf dev
